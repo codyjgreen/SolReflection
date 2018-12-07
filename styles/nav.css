@@ -2,6 +2,7 @@
 .logo-height {
   display: block;
   margin: auto;
+  margin-bottom:10px;
 }
 .site-nav{
   background-color: #fee60e;
@@ -12,6 +13,7 @@
   list-style-type: none;
     margin: 0;
     padding: 0;
+    margin-bottom: 10px;
     overflow: hidden;
     position: -webkit-sticky; /* Safari */
     position: sticky;
