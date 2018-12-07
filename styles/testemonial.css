@@ -1,0 +1,48 @@
+div {
+  display: block;
+}
+.testemonial-img-container{
+  float: left;
+  padding: 0 20px 10px 0;
+}
+
+.testemonial-img {
+  float: left;
+  border: 7px solid #f9f8f7;
+  border-radius: 50%;
+  box-shadow: 0 5px 5px 0 rgba(50,50,50,.15);
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.testemonial-quote {
+  position: relative;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: .9px;
+  padding: 20px 0 25px;
+  margin: 0;
+}
+
+.testemonial-attribution {
+  text-align: right;
+  padding: 0 0 20px;
+  margin: 0px;
+  position: relative;
+  line-height: 1.6em;
+  font-size: 1em;
+  color: #555;
+  font-family: AvenirNext,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.testemonial-attribution p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.testemonials {
+  border-bottom: 1px solid #d1d1d1;
+}
