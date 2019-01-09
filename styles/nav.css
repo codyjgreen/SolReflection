@@ -1,13 +1,12 @@
 
-.logo-height {
-  display: block;
-  margin: auto;
-  margin-bottom:10px;
-}
+
 .site-nav{
-  background-color: #fee60e;
+  background-color: #fedb00;
  
 }
+
+/* light gray A2AAAD */
+/* dark gray 7C878E */
 
 .nav-ul{
   list-style-type: none;
@@ -32,4 +31,20 @@
 }
 .nav-ul li a:hover {
   background-color: #111;
+}
+
+
+/* here down is the logo styling */
+#headdiv {
+ 
+  height:750px;
+  width: 100%;
+} 
+
+.logo-height{
+  max-width:100%; 
+  max-height:100%;
+  margin:auto;
+  display:block;
+    
 }
