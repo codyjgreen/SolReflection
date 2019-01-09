@@ -1,0 +1,19 @@
+{
+  "name": "solreflections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyjgreen/SolReflection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyjgreen/SolReflection/issues"
+  },
+  "homepage": "https://github.com/codyjgreen/SolReflection#readme"
+}
