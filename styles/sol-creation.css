@@ -2,7 +2,11 @@ body, html {
   height: 100%;
 }
 
-
+#bigCreationDiv{
+  background-color: #353535;
+  color: white;
+  font-size: 20px;
+}
 
 .book-me {
   background-color: #fedb00;
